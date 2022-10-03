@@ -1,0 +1,23 @@
+{
+  "name": "book-store-app",
+  "version": "1.0.0",
+  "description": "This is book store app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walid-Berrouk/book-store-app.git"
+  },
+  "author": "BADA Abderrahamne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walid-Berrouk/book-store-app/issues"
+  },
+  "homepage": "https://github.com/Walid-Berrouk/book-store-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
